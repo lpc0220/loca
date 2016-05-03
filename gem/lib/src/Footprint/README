@@ -1,0 +1,3 @@
+linear_fp: footprint of data access at cache-block granularity
+dual_fp: linear_fp for both element and cache-block granularity
+dual_fp_all: dual_fp for both data and instruction access
